@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a typescript implementation of the Mahon interval merge challenge and demonstrates three solution approaches: a) sort -> reduce, and b) sort -> stack, and c) sort -> sliding window. See the [challenge description](#challenge-description)  and [approach descriptions](#approach) for more information.
+This repository contains a typescript implementation of the Mahon interval merge challenge and demonstrates three solution approaches: a) sort -> reduce, b) sort -> stack, and c) sort -> sliding window. See the [challenge description](#challenge-description)  and [approach descriptions](#approach) for more information.
 
 ### How to run the code:
 
