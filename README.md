@@ -9,7 +9,7 @@ This repository contains a typescript implementation of the Mahon interval merge
 Have `git`, `node`, and `npm` available in your path, and run the following in the terminal application of your choice:
 
 ```bash
-git clone mahon-ice-bucket-challenge && cd mahon-ice-bucket-challenge
+git clone https://github.com/guylemon/mahon-ice-bucket-challenge.git && cd mahon-ice-bucket-challenge
 
 npm ci && npm run interview
 ```
