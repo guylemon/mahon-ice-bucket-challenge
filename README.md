@@ -106,7 +106,7 @@ Given an array of intervals where intervals[i] = [starti, endi], merge all overl
     > 1. _A[1] >= B[0]_
     > 2. _A[1] <= B[1]_
 
-3. Discard interval _B_ when interval _A_ ontains _B_. For example:
+3. Discard interval _B_ when interval _A_ contains _B_. For example:
 
    > let _A = [1, 5]_, and _B = [2,3]_. <br/>
    > Interval _A_ contains _B_.
