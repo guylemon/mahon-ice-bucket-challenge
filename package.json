@@ -1,0 +1,19 @@
+{
+  "name": "mahon-ice-bucket-challenge",
+  "version": "1.0.0",
+  "description": "An interview take-home challenge",
+  "main": "index.ts",
+  "scripts": {
+    "interview": "ts-node index.ts",
+    "dev": "nodemon index.ts"
+  },
+  "keywords": [],
+  "author": "Guy Lemon",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21",
+    "prettier": "^2.8.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
